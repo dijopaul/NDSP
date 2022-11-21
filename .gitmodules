@@ -1,0 +1,3 @@
+[submodule "NDSP-HiFi1"]
+	path = NDSP-HiFi1
+	url = https://github.com/dijopaul/NDSP-HiFi1.git
